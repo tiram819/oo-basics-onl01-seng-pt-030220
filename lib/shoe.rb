@@ -42,6 +42,8 @@ def condition
     @condition
   end
   
+  def cobble
+    puts 
 
 
 
