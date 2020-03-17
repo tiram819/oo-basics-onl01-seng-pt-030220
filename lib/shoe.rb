@@ -34,7 +34,7 @@ end
     @material
   end
   
-  def conditio =(condition)
+  def condition =(condition)
   @condition = condition
 end 
   
