@@ -34,7 +34,9 @@ end
     @material
   end
   
-
+def condition
+    @condition
+  end
   
 
 
